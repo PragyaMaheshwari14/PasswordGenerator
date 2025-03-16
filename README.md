@@ -37,12 +37,7 @@ The **Random Password Generator** is a simple and efficient tool built with **HT
 - **style.css** – Provides styling and layout.  
 - **script.js** – Implements the password generation logic.  
 
-## License
-This project is open-source and licensed under the **MIT License**.
 
-## Contribution
-Contributions are welcome! Feel free to fork the repository, submit pull requests, or report any issues.
 
-## Contact
-For any queries or suggestions, reach out via [GitHub](https://github.com/yourusername).
+
 
